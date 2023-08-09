@@ -38,7 +38,7 @@ calc.html
 </head>
 <body>
     <div class="container">
-        <h1>Abburehan Calculator</h1>
+        <h1>shruthi Calculator</h1>
 
         <div class="calculator">
             <input type="text" name="screen" id="screen">
