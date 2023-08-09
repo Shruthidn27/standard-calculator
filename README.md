@@ -156,4 +156,4 @@ h1{
 ![Screenshot from 2023-08-09 08-50-34](https://github.com/Shruthidn27/standard-calculator/assets/138849783/427c44e3-acb6-4794-aee3-2caa80fb39fb)
 
 ## Result:
-
+The program for designing simple calculator using javascript is excuted successfully.
