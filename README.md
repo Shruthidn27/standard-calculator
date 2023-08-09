@@ -38,7 +38,7 @@ calc.html
 </head>
 <body>
     <div class="container">
-        <h1>shruthi Calculator</h1>
+        <h1>SHRUTHI Calculator</h1>
 
         <div class="calculator">
             <input type="text" name="screen" id="screen">
@@ -151,6 +151,7 @@ h1{
     font-size: 28px;
     font-family: 'Courier New', Courier, monospace;
 }
+  
 
 ## OUTPUT:
 ![Screenshot from 2023-08-09 08-50-34](https://github.com/Shruthidn27/standard-calculator/assets/138849783/427c44e3-acb6-4794-aee3-2caa80fb39fb)
